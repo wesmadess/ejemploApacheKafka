@@ -6,7 +6,7 @@
   
 - En el siguiente link está la documentación oficial que explica los primeros pasos: https://kafka.apache.org/quickstart
 
-- Finalmente hay que ejecutar el archivo Productor y luego Consumidor.
+- Finalmente hay que ejecutar el archivo Productor.java y luego Consumidor.java.
 
 Comandos
 
